@@ -1,0 +1,144 @@
+com/example/helloworld/Fragment50.java
+ com.example.helloworld.Fragment50
+ com.example.helloworld.Fragment50$1
+ com.example.helloworld.Fragment50$1$1
+ com.example.helloworld.Fragment50$1$10
+ com.example.helloworld.Fragment50$1$11
+ com.example.helloworld.Fragment50$1$12
+ com.example.helloworld.Fragment50$1$13
+ com.example.helloworld.Fragment50$1$14
+ com.example.helloworld.Fragment50$1$15
+ com.example.helloworld.Fragment50$1$16
+ com.example.helloworld.Fragment50$1$2
+ com.example.helloworld.Fragment50$1$3
+ com.example.helloworld.Fragment50$1$4
+ com.example.helloworld.Fragment50$1$5
+ com.example.helloworld.Fragment50$1$6
+ com.example.helloworld.Fragment50$1$7
+ com.example.helloworld.Fragment50$1$8
+ com.example.helloworld.Fragment50$1$9
+ com.example.helloworld.Fragment50$2
+com/example/helloworld/AIFragment.java
+ com.example.helloworld.AIFragment
+ com.example.helloworld.AIFragment$1
+com/example/helloworld/BuildConfig.java
+ com.example.helloworld.BuildConfig
+com/example/helloworld/Fragment32.java
+ com.example.helloworld.Fragment32
+ com.example.helloworld.Fragment32$1
+ com.example.helloworld.Fragment32$1$1
+ com.example.helloworld.Fragment32$1$10
+ com.example.helloworld.Fragment32$1$2
+ com.example.helloworld.Fragment32$1$3
+ com.example.helloworld.Fragment32$1$4
+ com.example.helloworld.Fragment32$1$5
+ com.example.helloworld.Fragment32$1$6
+ com.example.helloworld.Fragment32$1$7
+ com.example.helloworld.Fragment32$1$8
+ com.example.helloworld.Fragment32$1$9
+ com.example.helloworld.Fragment32$2
+com/example/helloworld/Fragment28.java
+ com.example.helloworld.Fragment28
+ com.example.helloworld.Fragment28$1
+ com.example.helloworld.Fragment28$1$1
+ com.example.helloworld.Fragment28$1$10
+ com.example.helloworld.Fragment28$1$2
+ com.example.helloworld.Fragment28$1$3
+ com.example.helloworld.Fragment28$1$4
+ com.example.helloworld.Fragment28$1$5
+ com.example.helloworld.Fragment28$1$6
+ com.example.helloworld.Fragment28$1$7
+ com.example.helloworld.Fragment28$1$8
+ com.example.helloworld.Fragment28$1$9
+ com.example.helloworld.Fragment28$2
+com/example/helloworld/databinding/Fragment28Binding.java
+ com.example.helloworld.databinding.Fragment28Binding
+com/example/helloworld/databinding/Fragment24Binding.java
+ com.example.helloworld.databinding.Fragment24Binding
+com/example/helloworld/Fragment24.java
+ com.example.helloworld.Fragment24
+ com.example.helloworld.Fragment24$1
+ com.example.helloworld.Fragment24$1$1
+ com.example.helloworld.Fragment24$1$10
+ com.example.helloworld.Fragment24$1$2
+ com.example.helloworld.Fragment24$1$3
+ com.example.helloworld.Fragment24$1$4
+ com.example.helloworld.Fragment24$1$5
+ com.example.helloworld.Fragment24$1$6
+ com.example.helloworld.Fragment24$1$7
+ com.example.helloworld.Fragment24$1$8
+ com.example.helloworld.Fragment24$1$9
+ com.example.helloworld.Fragment24$2
+com/example/helloworld/Fragment42.java
+ com.example.helloworld.Fragment42
+ com.example.helloworld.Fragment42$1
+ com.example.helloworld.Fragment42$1$1
+ com.example.helloworld.Fragment42$1$10
+ com.example.helloworld.Fragment42$1$11
+ com.example.helloworld.Fragment42$1$12
+ com.example.helloworld.Fragment42$1$13
+ com.example.helloworld.Fragment42$1$14
+ com.example.helloworld.Fragment42$1$15
+ com.example.helloworld.Fragment42$1$16
+ com.example.helloworld.Fragment42$1$2
+ com.example.helloworld.Fragment42$1$3
+ com.example.helloworld.Fragment42$1$4
+ com.example.helloworld.Fragment42$1$5
+ com.example.helloworld.Fragment42$1$6
+ com.example.helloworld.Fragment42$1$7
+ com.example.helloworld.Fragment42$1$8
+ com.example.helloworld.Fragment42$1$9
+ com.example.helloworld.Fragment42$2
+com/example/helloworld/databinding/Fragment32Binding.java
+ com.example.helloworld.databinding.Fragment32Binding
+com/example/helloworld/databinding/Fragment55Binding.java
+ com.example.helloworld.databinding.Fragment55Binding
+com/example/helloworld/FirstFragment.java
+ com.example.helloworld.FirstFragment
+ com.example.helloworld.FirstFragment$1
+ com.example.helloworld.FirstFragment$2
+ com.example.helloworld.FirstFragment$3
+com/example/helloworld/databinding/ContentMainBinding.java
+ com.example.helloworld.databinding.ContentMainBinding
+com/example/helloworld/databinding/FragmentFirstBinding.java
+ com.example.helloworld.databinding.FragmentFirstBinding
+com/example/helloworld/databinding/Fragment50Binding.java
+ com.example.helloworld.databinding.Fragment50Binding
+com/example/helloworld/Fragment55.java
+ com.example.helloworld.Fragment55
+ com.example.helloworld.Fragment55$1
+ com.example.helloworld.Fragment55$1$1
+ com.example.helloworld.Fragment55$1$10
+ com.example.helloworld.Fragment55$1$11
+ com.example.helloworld.Fragment55$1$12
+ com.example.helloworld.Fragment55$1$13
+ com.example.helloworld.Fragment55$1$14
+ com.example.helloworld.Fragment55$1$15
+ com.example.helloworld.Fragment55$1$16
+ com.example.helloworld.Fragment55$1$2
+ com.example.helloworld.Fragment55$1$3
+ com.example.helloworld.Fragment55$1$4
+ com.example.helloworld.Fragment55$1$5
+ com.example.helloworld.Fragment55$1$6
+ com.example.helloworld.Fragment55$1$7
+ com.example.helloworld.Fragment55$1$8
+ com.example.helloworld.Fragment55$1$9
+ com.example.helloworld.Fragment55$2
+com/example/helloworld/databinding/Fragment42Binding.java
+ com.example.helloworld.databinding.Fragment42Binding
+com/example/helloworld/MainActivity.java
+ com.example.helloworld.MainActivity
+ com.example.helloworld.MainActivity$1
+ com.example.helloworld.MainActivity$ConnectThread
+ com.example.helloworld.MainActivity$ConnectedThread
+ com.example.helloworld.MainActivity$MessageConstants
+com/example/helloworld/databinding/ActivityMainBinding.java
+ com.example.helloworld.databinding.ActivityMainBinding
+com/example/helloworld/databinding/FragmentAIBinding.java
+ com.example.helloworld.databinding.FragmentAIBinding
+com/example/helloworld/databinding/FragmentPresetBinding.java
+ com.example.helloworld.databinding.FragmentPresetBinding
+com/example/helloworld/PresetFragment.java
+ com.example.helloworld.PresetFragment
+ com.example.helloworld.PresetFragment$1
+ com.example.helloworld.PresetFragment$2
