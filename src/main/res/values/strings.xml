@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RGB Control App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">RGB Controls</string>
+    <string name="custom">Custom</string>
+    <string name="previous">Back</string>
+
+    <string name="hello_first_fragment">Team 34: Smart Home Theatre Control App</string>
+    <string name="ai_button_text">AI Controls</string>
+    <string name="preset_controls">Presets</string>
+    <string name="back_label">Back</string>
+    <string name="send">Send</string>
+
+    <string-array name="tv_array">
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+        <item>42</item>
+        <item>50</item>
+        <item>55</item>
+    </string-array>
+
+</resources>

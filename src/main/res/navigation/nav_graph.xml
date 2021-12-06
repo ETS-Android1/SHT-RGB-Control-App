@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/FirstFragment">
+
+    <fragment
+        android:id="@+id/FirstFragment"
+        android:name="com.example.helloworld.FirstFragment"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_FirstFragment_to_Fragment24"
+            app:destination="@id/Fragment24" />
+        <action
+            android:id="@+id/action_FirstFragment_to_Fragment28"
+            app:destination="@id/Fragment28" />
+        <action
+            android:id="@+id/action_FirstFragment_to_Fragment32"
+            app:destination="@id/Fragment32" />
+        <action
+            android:id="@+id/action_FirstFragment_to_Fragment42"
+            app:destination="@id/Fragment42" />
+        <action
+            android:id="@+id/action_FirstFragment_to_Fragment50"
+            app:destination="@id/Fragment50" />
+        <action
+            android:id="@+id/action_FirstFragment_to_Fragment55"
+            app:destination="@id/Fragment55" />
+        <action
+            android:id="@+id/action_FirstFragment_to_AIFragment"
+            app:destination="@id/AIFragment" />
+        <action
+            android:id="@+id/action_FirstFragment_to_PresetFragment"
+            app:destination="@id/PresetFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Fragment24"
+        android:name="com.example.helloworld.Fragment24"
+        android:label="24&quot; TV Custom"
+        tools:layout="@layout/fragment_24">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/AIFragment"
+        android:name="com.example.helloworld.AIFragment"
+        android:label="AI ON/OFF"
+        tools:layout="@layout/fragment_a_i">
+
+        <action
+            android:id="@+id/action_AIFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/PresetFragment"
+        android:name="com.example.helloworld.PresetFragment"
+        android:label="Preset Colors"
+        tools:layout="@layout/fragment_preset">
+
+        <action
+            android:id="@+id/action_PresetFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Fragment28"
+        android:name="com.example.helloworld.Fragment28"
+        android:label="28&quot; TV Custom"
+        tools:layout="@layout/fragment_28">
+
+        <action
+            android:id="@+id/action_Fragment28_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Fragment32"
+        android:name="com.example.helloworld.Fragment32"
+        android:label="32&quot; TV Custom"
+        tools:layout="@layout/fragment_32">
+
+        <action
+            android:id="@+id/action_Fragment32to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Fragment42"
+        android:name="com.example.helloworld.Fragment42"
+        android:label="42&quot; TV Custom"
+        tools:layout="@layout/fragment_42">
+
+        <action
+            android:id="@+id/action_Fragment42_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Fragment50"
+        android:name="com.example.helloworld.Fragment50"
+        android:label="50&quot; TV Custom"
+        tools:layout="@layout/fragment_50">
+
+        <action
+            android:id="@+id/action_Fragment50_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Fragment55"
+        android:name="com.example.helloworld.Fragment55"
+        android:label="55&quot; TV Custom"
+        tools:layout="@layout/fragment_55">
+
+        <action
+            android:id="@+id/action_Fragment55_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+</navigation>
